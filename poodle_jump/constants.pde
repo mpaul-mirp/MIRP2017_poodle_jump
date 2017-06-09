@@ -4,7 +4,6 @@ int displayWidth=600, displayHeight=1000;
 // 1 -- Game Running Screen
 // 2 -- Lose Screen
 int gameState = 0;
-
 // Velocity Constants
 float PLAYER_HORIZ_VELOCITY = 20;
 float PLAYER_VERT_VELOCITY = 35;
